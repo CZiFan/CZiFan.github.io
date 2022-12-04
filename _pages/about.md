@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Center for Big Data of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
+I am a PHD student in the Center for Big Data of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
 
 ## Education
 - Sep. 1, 2019 to Now: Master of Data Science, Center for Big Data, Peking University.
@@ -20,6 +20,7 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 - Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
 
 ## Publications
+- Jiazheng Li, ***Zifan Chen***, Yang Chen, Jie Zhao, Meng He, Xiaoting Li, Li Zhang, Bin Dong, Xiaotian Zhang, Lei Tang, Lin Shen. "CT-based delta radiomics in predicting the prognosis of stage IV gastric cancer to immune checkpoint inhibitors." Frontiers in Oncology, 2022.
 - ***Zifan Chen***, *Zhe Wu*, Xian Wu, Li Zhang, Jie Zhao, Yangtian Yan, Yefeng Zheng. "Contractible Regularization for Federated Learning on Non-IID Data." The IEEE International Conference on Data Mining (ICDM), Regular paper, 2022. (共同第一作者) [Code](https://github.com/czifan/ConTre.pytorch)
 - Chen et al. "Predicting response to immunotherapy in gastric cancer via multi-dimensional analyses of the tumour immune microenvironment." Nature Communications, 2022. [Paper](https://www.nature.com/articles/s41467-022-32570-z)
 - *Hexin Dong*, ***Zifan Chen***, Mingze Yuan, Yutong Xie, Jie Zhao, Fei Yu, Bin Dong, Li Zhang. "Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation." The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.（共同第一作者）[Paper](https://www.ijcai.org/proceedings/2022/0121.pdf) [Appendix](https://arxiv.org/abs/2205.08083) [Code](https://github.com/czifan/RAML)
