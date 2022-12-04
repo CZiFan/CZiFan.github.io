@@ -14,7 +14,7 @@ I am a PHD student in the Center for Big Data of Peking University, Beijing. I w
 - Sep. 1, 2019 to Now: Master of Data Science, Center for Big Data, Peking University.
 - Sep. 1, 2015 to Jun. 31, 2019: Bachelor degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
 
-## Informations
+## Information
 - Email: czifan@pku.edu.cn
 - Github: [https://github.com/czifan/](https://github.com/czifan/)
 - Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
