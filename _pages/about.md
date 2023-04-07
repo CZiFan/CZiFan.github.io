@@ -39,7 +39,7 @@ I am a PHD student in the Center for Big Data of Peking University, Beijing. I w
 Tip: *Italics* indicate the first author.
 
 ## Competitions
-- ***Zifan Chen***, Hexin, Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. 
+- ***Zifan Chen***, Hexin Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. 
 <!-- [Details](https://czifan.github.io/https:/zhijiangcup.zhejianglab.com/zhijiang/match/details/id/7.html) -->
 - ***Zifan Chen***, Jie Zhao, Li Zhang. The 4th place in the preliminary of National Digital Ecological Innovation Contest - Intelligent Algorithm Contes, 2021. 
 <!-- [Details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531860/introduction) -->
