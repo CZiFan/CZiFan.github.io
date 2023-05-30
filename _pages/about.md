@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PHD student in the Center for Big Data of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
+I am a PHD student in the Center for Big Data superivsed by [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
 
 ## Education
 - Sep. 1, 2019 to Now: Master of Data Science, Center for Big Data, Peking University.
@@ -20,6 +20,7 @@ I am a PHD student in the Center for Big Data of Peking University, Beijing. I w
 - Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
 
 ## Publications
+- Zifan Chen, Jiazheng Li, Jie Zhao, Yiting Liu, Hongfeng Li, Bin Dong, Lei Tang, Li Zhang. "Propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans." arXiv, arXiv:2305.17871, 2023. [Paper](https://arxiv.org/pdf/2305.17871.pdf)
 - Mingze Yuan, Yingda Xia, Hexin Dong, **Zifan Chen**, Jiawen Yao, Mingyan Qiu, Ke Yan, Xiaoli Yin, Yu Shi, Xin Chen, Zaiyi Liu, Bin Dong, Jingren Zhou, Le Lu, Ling Zhang, Li Zhan. "Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation, OOD Detection and Localization." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Highlight, 2023. [Paper](https://www.cs.jhu.edu/~lelu/publication/CVPR2023_Anomaly_Transformer.pdf)
 - Jiazheng Li, ***Zifan Chen***, Yang Chen, Jie Zhao, Meng He, Xiaoting Li, Li Zhang, Bin Dong, Xiaotian Zhang, Lei Tang, Lin Shen. "CT-based delta radiomics in predicting the prognosis of stage IV gastric cancer to immune checkpoint inhibitors." Frontiers in Oncology, 2022.（共同第一作者） [Paper](https://www.frontiersin.org/articles/10.3389/fonc.2022.1059874/full)
 - ***Zifan Chen***, *Zhe Wu*, Xian Wu, Li Zhang, Jie Zhao, Yangtian Yan, Yefeng Zheng. "Contractible Regularization for Federated Learning on Non-IID Data." The IEEE International Conference on Data Mining (ICDM), Regular paper, 2022. (共同第一作者) [Code](https://github.com/czifan/ConTre.pytorch) [Paper](https://ieeexplore.ieee.org/document/10027753)
