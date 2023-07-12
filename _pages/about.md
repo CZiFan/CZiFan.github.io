@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PHD student in the Center for Big Data superivsed by [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
+I am a Ph.D. student in the Center for Big Data supervised by [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
 
 ## Education
-- Sep. 1, 2019 to Now: Master of Data Science, Center for Big Data, Peking University.
-- Sep. 1, 2015 to Jun. 31, 2019: Bachelor degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
+- Sep. 1, 2019, to Now: Master of Data Science, Center for Big Data, Peking University.
+- Sep. 1, 2015, to Jun. 31, 2019: Bachelor's degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
 
 ## Information
 - Email: czifan@pku.edu.cn
@@ -20,7 +20,7 @@ I am a PHD student in the Center for Big Data superivsed by [Professor Dong](htt
 - Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
 
 ## Publications
-- *Meng He*, ***Zifan Chen***, Li Zhang, Xiangyu Gao, Xiaoyi Chong, Haoshen Li, Lin Shen, Xiaotian Zhang, Bin Dong, Ziyu Li, Lei Tang. "Associations of subcutaneous fat area and Systemic Immune-inflammation Index with survival in patients with advanced gastric cancer receiving dual PD-1 and HER2 blockade." Journal for immunotherapy of cancer (IF: 12.469), 2023. (co-first author) [Paper](https://jitc.bmj.com/content/11/6/e007054#) [Code](https://github.com/czifan/TSPC.PyQt5)
+- *Meng He*, ***Zifan Chen***, Li Zhang, Xiangyu Gao, Xiaoyi Chong, Haoshen Li, Lin Shen, Xiaotian Zhang, Bin Dong, Ziyu Li, Lei Tang. "Associations of subcutaneous fat area and Systemic Immune-inflammation Index with survival in patients with advanced gastric cancer receiving dual PD-1 and HER2 blockade." Journal for immunotherapy of cancer (IF: 12.469), 2023. (- co-first author) [Paper](https://jitc.bmj.com/content/11/6/e007054#) [Code](https://github.com/czifan/TSPC.PyQt5)
 - ***Zifan Chen***, *Jiazheng Li*, Jie Zhao, Yiting Liu, Hongfeng Li, Bin Dong, Lei Tang, Li Zhang. "Propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans." arXiv, arXiv:2305.17871, 2023. (co-first author) [Paper](https://arxiv.org/pdf/2305.17871.pdf)
 - Mingze Yuan, Yingda Xia, Hexin Dong, **Zifan Chen**, Jiawen Yao, Mingyan Qiu, Ke Yan, Xiaoli Yin, Yu Shi, Xin Chen, Zaiyi Liu, Bin Dong, Jingren Zhou, Le Lu, Ling Zhang, Li Zhan. "Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation, OOD Detection and Localization." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Highlight, 2023. [Paper](https://www.cs.jhu.edu/~lelu/publication/CVPR2023_Anomaly_Transformer.pdf)
 - Jiazheng Li, ***Zifan Chen***, Yang Chen, Jie Zhao, Meng He, Xiaoting Li, Li Zhang, Bin Dong, Xiaotian Zhang, Lei Tang, Lin Shen. "CT-based delta radiomics in predicting the prognosis of stage IV gastric cancer to immune checkpoint inhibitors." Frontiers in Oncology, 2022.（co-first author） [Paper](https://www.frontiersin.org/articles/10.3389/fonc.2022.1059874/full)
