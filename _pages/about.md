@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Center for Big Data supervised by [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
+I am a Ph.D. student in the Center for Data Science supervised by [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
 
 ## Education
-- Sep. 1, 2019, to Now: Master of Data Science, Center for Big Data, Peking University.
+- Sep. 1, 2019, to Now: Master of Data Science, Center for Data Science, Peking University.
 - Sep. 1, 2015, to Jun. 31, 2019: Bachelor's degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
 
 ## Information
