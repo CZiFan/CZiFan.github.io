@@ -35,10 +35,15 @@ I am a Ph.D. student in the Center for Data Science supervised by [Professor Don
 <!-- [Details](https://czifan.github.io/publication/2021-03-03-ecr)  -->
 - ***Zifan Chen***, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021. (```first author```) [Paper](https://arxiv.org/pdf/2105.07245.pdf)
 <!--  [Details](https://czifan.github.io/publication/2021-05-15-clnet)  -->
-- ***陈梓帆***, 张立, 季加孚, 董彬, 赵杰, 唐磊, 李佳铮, 刘一婷. 基于目标影像的病灶检测方法和装置. 专利申请公布号: CN112634224A, 申请日: 2020.12.17, 申请公布日: 2021.04.09.
-- ***陈梓帆***, 赵杰, 张立. 脊柱疾病检测方法和装置. 专利申请公布号: CN112614092A, 申请日: 2020.12.11, 申请公布日: 2021.04.06.
 
-Tip: *Italics* indicate the first author.
+## Patents
+- 陈梓帆, 张立, 季加孚, 董彬, 赵杰, 唐磊, 李佳铮, 刘一婷 (2023). 基于目标影像的病灶检测方法和装置. 中国专利CN112634224B.
+- 沈琳, 陈杨, 张江东, 董彬, 张小田, 张立, 陈梓帆, 孙宇, 赵杰, 郏科人 (2023). 肿瘤免疫治疗疗效预测方法、装置、电子设备及存储介质. 中国专利CN115295154B.
+- 沈琳, 陈杨, 张江东, 张小田, 董彬, 陈梓帆, 张立, 孙宇, 赵杰, 郏科人 (2023). 肿瘤免疫治疗疗效评估方法、装置、电子设备及存储介质. 中国专利CN115294129B.
+- 董和鑫, 陈梓帆, 袁铭泽, 谢雨彤, 赵杰, 于飞, 张立, 董彬 (2022). 基于区域感知度量学习的开放世界语义分割方法和装置. 中国专利公布CN114998585A.
+- 陈梓帆, 董和鑫, 于飞, 赵杰, 袁铭泽, 张立, 董彬 (2022). 基于增量学习的轻量化物体检测方法与装置. 中国专利公布CN115170858A.
+- 陈梓帆, 何蒙, 赵杰, 张立, 董彬, 唐磊 (2023). 胃癌靶向治疗疗效预测的方法、装置、设备及介质. 中国专利公布CN115565664A.
+- 陈梓帆, 赵杰, 张立 (2021). 脊柱检测方法和装置. 中国专利公布CN112614092A.
 
 ## Competitions
 - ***Zifan Chen***, Hexin Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. 
