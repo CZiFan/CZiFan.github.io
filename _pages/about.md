@@ -46,16 +46,15 @@ I am a Ph.D. student in the Center for Data Science supervised by [Professor Don
 - 陈梓帆, 赵杰, 张立 (2021). 脊柱检测方法和装置. 中国专利公布CN112614092A.
 
 ## Competitions
-- ***Zifan Chen***, Hexin Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. 
+- Zifan Chen, Hexin Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. 
 <!-- [Details](https://czifan.github.io/https:/zhijiangcup.zhejianglab.com/zhijiang/match/details/id/7.html) -->
-- ***Zifan Chen***, Jie Zhao, Li Zhang. The 4th place in the preliminary of National Digital Ecological Innovation Contest - Intelligent Algorithm Contes, 2021. 
+- Zifan Chen, Jie Zhao, Li Zhang. The 4th place in the preliminary of the National Digital Ecological Innovation Contest - Intelligent Algorithm Contes, 2021. 
 <!-- [Details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531860/introduction) -->
-- ***Zifan Chen***, Jie Zhao, Li Zhang. Runner-up of the 2020 Spinal Disease Intelligent Diagnosis AI Challenge, 2020. 
+- Zifan Chen, Jie Zhao, Li Zhang. Runner-up of the 2020 Spinal Disease Intelligent Diagnosis AI Challenge, 2020. 
 <!-- [Details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531796/introduction) -->
-- *Xing Tao*, **Zifan Chen**. Third prize in the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition, 2020. 
+- Xing Tao, Zifan Chen. Third prize in the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition, 2020. 
 <!-- [Details](https://czifan.github.io/https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0) -->
 
-Tip: *Italics* indicate the first author.
 
 <!-- ## News
 - Mar. 18, 2022 Update [Main page](https://czifan.github.io/)
