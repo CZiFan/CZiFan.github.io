@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Center for Data Science supervised by  of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
-
 I am pursuing my Ph.D. at the Center for Data Science at Peking University, Beijing, under the guidance of [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/). My investigations center on multi-modal prognosis and treatment response prediction in tumors.
 
 ## Education
