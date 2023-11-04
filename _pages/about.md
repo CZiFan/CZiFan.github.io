@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Center for Data Science supervised by [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
+I am a Ph.D. student in the Center for Data Science supervised by  of Peking University, Beijing. I work on deep learning in medical imaging and computer vision.
+
+I am pursuing my Ph.D. at the Center for Data Science at Peking University, Beijing, under the guidance of [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/). My investigations center on multi-modal prognosis and treatment response prediction in tumors.
 
 ## Education
-- Sep. 1, 2019, to present: Master of Data Science, Center for Data Science, Peking University.
-- Sep. 1, 2015, to Jun. 31, 2019: Bachelor's degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
+- From September 2019 to present: Ph.D. student in Data Science, Center for Data Science, Peking University.
+- From September 2015 to June 2019: Bachelor's degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
 
 ## Information
 - Email: czifan@pku.edu.cn
