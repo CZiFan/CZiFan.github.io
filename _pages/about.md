@@ -22,34 +22,14 @@ I am pursuing my Ph.D. at the Center for Data Science of Peking University, Beij
 ## Publications
 - *Heyun Chen*, **Zifan Chen**, Jie Zhao, Haoshen Li, Jiazheng Li, Yiting Liu, Mingze Yuan, Peng Bao, Xinyu Nan, Bin Dong, Lei Tang, Li Zhang. MSI-UNet: A Flexible UNet-based Multi-scale Interactive Framework for 3D Gastric Tumor Segmentation on CT Scans. IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2024.
 - *Haoshen Li*, **Zifan Chen**, Jie Zhao, Heyun Chen, Hexin Dong, Mingze Yuan, Bin Dong, Li Zhang. Multi-scale Clinical-guided Binocular Fusion Framework for Predicting New-onset Hypertension over a Four-Year Period. IEEE International Symposium on Biomedical Imaging (ISBI), Poster [Among the finalists for Best Paper Award](https://biomedicalimaging.org/2024/best-paper-award-finalists-announced/), 2024. 
-- ```co-first author``` *Meng He*, ***Zifan Chen***, *Song Liu*, *Yang Chen*, *Huan Zhang*, Li Zhang, Jie Zhao, Jie Yang, Xiaotian Zhang, Lin Shen, Jianbo Gao, Bin Dong, Lei Tang. [Deep learning model based on multi-lesion and time series CT images for predicting the benefits from anti-HER2 targeted therapy in stage IV gastric cancer](https://pubmed.ncbi.nlm.nih.gov/38411839/). <span style="color:red">Insights into Imaging</span>, 2024. [Code](https://github.com/czifan/HER2.pytorch)
-- *Mingze Yuan*, *Peng Bao*, *Jiajia Yuan*, Yunhao Shen, **Zifan Chen**, Yi Xie, Jie Zhao, Yang Chen, Li Zhang, Lin Shen, Bin Dong. [Large language models illuminate a progressive pathway to artificial intelligent healthcare assistant](https://www.sciencedirect.com/science/article/pii/S2950347724000264). Medicine Plus, 2024. [Collated list of papers](https://github.com/mingze-yuan/Awesome-LLM-Healthcare/tree/main)
-- ```co-first author``` *Jiajia Yuan*, *Peng Bao*, ***Zifan Chen***, *Mingze Yuan*, Jie Zhao, Jiahua Pan, Yi Xie, Yanshuo Cao, Yakun Wang, Zhenghang Wang, Zhihao Lu, Xiaotian Zhang, Jian Li, Lei Ma, Yang Chen, Li Zhang, Lin Shen, Bin Dong. [Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers](https://www.the-innovation.org/article/doi/10.59717/j.xinn-med.2023.100019
-        
-        
-        
-        ). The Innovation Medicine, 2023. 
+- ```co-first author``` *Meng He*, ***Zifan Chen***, *Song Liu*, *Yang Chen*, *Huan Zhang*, Li Zhang, Jie Zhao, Jie Yang, Xiaotian Zhang, Lin Shen, Jianbo Gao, Bin Dong, Lei Tang. [Deep learning model based on multi-lesion and time series CT images for predicting the benefits from anti-HER2 targeted therapy in stage IV gastric cancer](https://pubmed.ncbi.nlm.nih.gov/38411839/). <span style="color:lightblue">Insights into Imaging</span>, 2024. [Code](https://github.com/czifan/HER2.pytorch)
+- *Mingze Yuan*, *Peng Bao*, *Jiajia Yuan*, Yunhao Shen, **Zifan Chen**, Yi Xie, Jie Zhao, Yang Chen, Li Zhang, Lin Shen, Bin Dong. [Large language models illuminate a progressive pathway to artificial intelligent healthcare assistant](https://www.sciencedirect.com/science/article/pii/S2950347724000264). <span style="color:lightred">Medicine Plus</span>, 2024. [Collated list of papers](https://github.com/mingze-yuan/Awesome-LLM-Healthcare/tree/main)
+- ```co-first author``` *Jiajia Yuan*, *Peng Bao*, ***Zifan Chen***, *Mingze Yuan*, Jie Zhao, Jiahua Pan, Yi Xie, Yanshuo Cao, Yakun Wang, Zhenghang Wang, Zhihao Lu, Xiaotian Zhang, Jian Li, Lei Ma, Yang Chen, Li Zhang, Lin Shen, Bin Dong. [Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers](https://www.the-innovation.org/article/doi/10.59717/j.xinn-med.2023.100019). The Innovation Medicine, 2023. 
 - ```co-first author``` *Meng He*, ***Zifan Chen***, Li Zhang, Xiangyu Gao, Xiaoyi Chong, Haoshen Li, Lin Shen, Xiaotian Zhang, Bin Dong, Ziyu Li, Lei Tang. [Associations of subcutaneous fat area and Systemic Immune-inflammation Index with survival in patients with advanced gastric cancer receiving dual PD-1 and HER2 blockade](https://jitc.bmj.com/content/11/6/e007054#). Journal for immunotherapy of cancer (IF: 12.469), 2023. [Code](https://github.com/czifan/TSPC.PyQt5) 
-- ```co-first author``` ***Zifan Chen***, *Jiazheng Li*, Jie Zhao, Yiting Liu, Hongfeng Li, Bin Dong, Lei Tang, Li Zhang. [Propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans](https://arxiv.org/pdf/2305.17871
-        
-        
-        
-        .pdf). arXiv, arXiv:2305.17871
-        
-        
-        
-        , 2023. 
+- ```co-first author``` ***Zifan Chen***, *Jiazheng Li*, Jie Zhao, Yiting Liu, Hongfeng Li, Bin Dong, Lei Tang, Li Zhang. [Propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans](https://arxiv.org/pdf/2305.17871.pdf). arXiv, arXiv:2305.17871, 2023. 
 - Mingze Yuan, Yingda Xia, Hexin Dong, **Zifan Chen**, Jiawen Yao, Mingyan Qiu, Ke Yan, Xiaoli Yin, Yu Shi, Xin Chen, Zaiyi Liu, Bin Dong, Jingren Zhou, Le Lu, Ling Zhang, Li Zhan. [Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation, OOD Detection and Localization](https://www.cs.jhu.edu/~lelu/publication/CVPR2023_Anomaly_Transformer.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Highlight, 2023.
-- Jiaqi Tang, Heyun Chen, **Zifan Chen**, Jiahua Pan, Yijiang He, Jie Zhao, Zhen Li. [A Person-job Matching Method Based on BM25 and Pre-trained Language Model](https://dl.acm.org/doi/abs/10.1145/3639479.3639494
-        
-        
-        
-        ). Proceedings of the 2023 6th International Conference on Machine Learning and Natural Language Processing, 2023.
-- ```co-first author``` Jiazheng Li, ***Zifan Chen***, Yang Chen, Jie Zhao, Meng He, Xiaoting Li, Li Zhang, Bin Dong, Xiaotian Zhang, Lei Tang, Lin Shen. [CT-based delta radiomics in predicting the prognosis of stage IV gastric cancer to immune checkpoint inhibitors](https://www.frontiersin.org/articles/10.3389/fonc.2022.1059874/full
-        
-        
-        
-        ). Frontiers in Oncology, 2022. 
+- Jiaqi Tang, Heyun Chen, **Zifan Chen**, Jiahua Pan, Yijiang He, Jie Zhao, Zhen Li. [A Person-job Matching Method Based on BM25 and Pre-trained Language Model](https://dl.acm.org/doi/abs/10.1145/3639479.3639494). Proceedings of the 2023 6th International Conference on Machine Learning and Natural Language Processing, 2023.
+- ```co-first author``` Jiazheng Li, ***Zifan Chen***, Yang Chen, Jie Zhao, Meng He, Xiaoting Li, Li Zhang, Bin Dong, Xiaotian Zhang, Lei Tang, Lin Shen. [CT-based delta radiomics in predicting the prognosis of stage IV gastric cancer to immune checkpoint inhibitors](https://www.frontiersin.org/articles/10.3389/fonc.2022.1059874/full). Frontiers in Oncology, 2022. 
 - ```co-first author``` ***Zifan Chen***, *Zhe Wu*, Xian Wu, Li Zhang, Jie Zhao, Yangtian Yan, Yefeng Zheng. [Contractible Regularization for Federated Learning on Non-IID Data](https://ieeexplore.ieee.org/document/10027753). The IEEE International Conference on Data Mining (ICDM), Regular paper, 2022. [Code](https://github.com/czifan/ConTre.pytorch) 
 - Yang Chen, Keren Jia, Yu Sun, Cheng Zhang, Yilin Li, Li Zhang, **Zifan Chen**, Jiangdong Zhang, Yajie Hu, Jiajia Yuan, Xingwang Zhao, Yanyan Li, Jifang Gong, Bin Dong, Xiaotian Zhang, Jian Li, Lin Shen. [Predicting response to immunotherapy in gastric cancer via multi-dimensional analyses of the tumour immune microenvironment](https://www.nature.com/articles/s41467-022-32570-z). Nature Communications, 2022.
 - ```co-first author``` *Hexin Dong*, ***Zifan Chen***, Mingze Yuan, Yutong Xie, Jie Zhao, Fei Yu, Bin Dong, Li Zhang. [Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation](https://www.ijcai.org/proceedings/2022/0121.pdf). The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022. [Appendix](https://arxiv.org/abs/2205.08083) [Code](https://github.com/czifan/RAML) 
@@ -57,11 +37,8 @@ I am pursuing my Ph.D. at the Center for Data Science of Peking University, Beij
 <!-- [Details](https://czifan.github.io/publication/2022-03-16-ccfnet) -->
 - *Yue Zhang*, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. [Feature Fusion for Segmentation and Classification of Skin Lesions](https://ieeexplore.ieee.org/document/9761474). IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022.
 - Hexin Dong, **Zifan Chen**, Jie Zhao, Mingze Yuan, Fei Yu, Jiangdong Zhang, Li Zhang. [Abdominal organ segmentation via self training](https://openreview.net/pdf?id=IfyIzP_GSpn). 2022.
-<!-- [Details](https://czifan.github.io/publication/2022-03-18-clnetzy) -->
 - ```first author``` ***Zifan Chen***, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. [Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation](https://connect.myesr.org/course/ai-in-abdominal-imaging/). European Congress of Radiology (ECR), Oral, 2021. 
-<!-- [Details](https://czifan.github.io/publication/2021-03-03-ecr)  -->
 - ```first author``` ***Zifan Chen***, Xin Qin, Chao Yang, Li Zhang. [Composite Localization for Human Pose Estimation](https://arxiv.org/pdf/2105.07245.pdf). arXiv preprint arXiv:2105.07245, 2021. 
-<!--  [Details](https://czifan.github.io/publication/2021-05-15-clnet)  -->
 
 ## Patents
 - 沈琳, 陈杨, 董彬, 张立, 李一林, 赵杰, **陈梓帆** (2024). 癌症治疗反应预测系统及其控制方法. 中国专利CN117831789B.
