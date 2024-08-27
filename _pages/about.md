@@ -20,12 +20,20 @@ I am pursuing my Ph.D. at the Center for Data Science of Peking University, Beij
 - Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
 
 ## Publications
-- ```co-first author``` ***Zifan Chen***, *Yang Chen*, *Yu Sun*, *Lei Tang*, *Li Zhang*, Yajie Hu, Meng He, Zhiwei Li, Siyuan Cheng, Jiajia Yuan, Zhenghang Wang, Yakun Wang, Jie Zhao, Jifang Gong, Liying Zhao, Baoshan Cao, Guoxin Li, Xiaotian Zhang, Bin Dong, Lin Shen. [Predicting gastric cancer response to anti-HER2 therapy or anti-HER2 combined immunotherapy based on multi-modal data](https://www.nature.com/articles/s41392-024-01932-y). <span style="color:#3c7693">*Signal Transduction and Targeted Therapy (IF: 40.8)*</span>, 2024. \[[Code]\](https://github.com/czifan/MuMo) [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41392-024-01932-y/MediaObjects/41392_2024_1932_MOESM1_ESM.docx) [WeChat Post 1](https://mp.weixin.qq.com/s/LkcFRv5be_sXey1cDUEIWQ) [WeChat Post 2](https://mp.weixin.qq.com/s/Kf827Bwwn2LMHJFn9BM-zg)
+- ```co-first author``` ***Zifan Chen***, *Yang Chen*, *Yu Sun*, *Lei Tang*, *Li Zhang*, Yajie Hu, Meng He, Zhiwei Li, Siyuan Cheng, Jiajia Yuan, Zhenghang Wang, Yakun Wang, Jie Zhao, Jifang Gong, Liying Zhao, Baoshan Cao, Guoxin Li, Xiaotian Zhang, Bin Dong, Lin Shen. [Predicting gastric cancer response to anti-HER2 therapy or anti-HER2 combined immunotherapy based on multi-modal data](https://www.nature.com/articles/s41392-024-01932-y). <span style="color:#3c7693">*Signal Transduction and Targeted Therapy (IF: 40.8)*</span>, 2024. [\[Code\]](https://github.com/czifan/MuMo) [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41392-024-01932-y/MediaObjects/41392_2024_1932_MOESM1_ESM.docx) [WeChat Post 1](https://mp.weixin.qq.com/s/LkcFRv5be_sXey1cDUEIWQ) [WeChat Post 2](https://mp.weixin.qq.com/s/Kf827Bwwn2LMHJFn9BM-zg)
 - ```co-first author``` ***Zifan Chen***, *Xinyu Nan*, *Jiazheng Li*, Jie Zhao, Haifeng Li, Zilin Lin, Haoshen Li, Heyun Chen, Yiting Liu, Bin Dong, Li Zhang, Lei Tang. [PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images](https://arxiv.org/abs/2408.13836
         
         
         
+        
+        
+        
+        
         ). arXiv:2408.13836
+        
+        
+        
+        
         
         
         
@@ -38,13 +46,25 @@ I am pursuing my Ph.D. at the Center for Data Science of Peking University, Beij
         
         
         
+        
+        
+        
+        
         ). <span style="color:#3c7693">*The Innovation Medicine*</span>, 2023. [WeChat Post](https://mp.weixin.qq.com/s/UOtPJd29v_YdUM26h34-pg)
 - ```co-first author``` *Meng He*, ***Zifan Chen***, Li Zhang, Xiangyu Gao, Xiaoyi Chong, Haoshen Li, Lin Shen, Xiaotian Zhang, Bin Dong, Ziyu Li, Lei Tang. [Associations of subcutaneous fat area and Systemic Immune-inflammation Index with survival in patients with advanced gastric cancer receiving dual PD-1 and HER2 blockade](https://jitc.bmj.com/content/11/6/e007054#). <span style="color:#3c7693">*Journal for ImmunoTherapy of Cancer (IF: 12.469)*</span>, 2023. [Code](https://github.com/czifan/TSPC.PyQt5) 
 - ```co-first author``` ***Zifan Chen***, *Jiazheng Li*, Jie Zhao, Yiting Liu, Hongfeng Li, Bin Dong, Lei Tang, Li Zhang. [Propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans](https://arxiv.org/pdf/2305.17871
         
         
         
+        
+        
+        
+        
         .pdf). <span style="color:#3c7693">*arXiv*</span>, arXiv:2305.17871
+        
+        
+        
+        
         
         
         
