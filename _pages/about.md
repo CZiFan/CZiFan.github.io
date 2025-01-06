@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my Ph.D. at the Center for Data Science of Peking University, Beijing, under the guidance of [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/). My main research direction is [multimodal medicine AI](https://github.com/czifan/Multimodal-Medicine-AI).
+I am pursuing my Ph.D. at the Center for Data Science of Peking University, Beijing, under the guidance of [Professor Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/). My main research direction is [multimodal medicine AI](https://github.com/czifan/Multimodal-Medicine-AI). \[[CV]\](https://github.com/czifan/czifan.github.io/edit/master/_pages/CZF_CV.pdf)
 
 ## Education
 - From September 2019 to present: Ph.D. student in Data Science, Center for Data Science, Peking University.
